@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lddthao\\Downloads\\active-directory-verifiable-credentials-dotnet-main\\1-asp-net-core-api-idtokenhint\\wwwroot\\VerifiedCredentialExpert-icon.png",
+      "PackagePath": "staticwebassets\\VerifiedCredentialExpert-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\lddthao\\Downloads\\active-directory-verifiable-credentials-dotnet-main\\1-asp-net-core-api-idtokenhint\\wwwroot\\authenticator-icon.png",
+      "PackagePath": "staticwebassets\\authenticator-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\lddthao\\Downloads\\active-directory-verifiable-credentials-dotnet-main\\1-asp-net-core-api-idtokenhint\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lddthao\\Downloads\\active-directory-verifiable-credentials-dotnet-main\\1-asp-net-core-api-idtokenhint\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\lddthao\\Downloads\\active-directory-verifiable-credentials-dotnet-main\\1-asp-net-core-api-idtokenhint\\wwwroot\\qrcode.min.js",
+      "PackagePath": "staticwebassets\\qrcode.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lddthao\\Downloads\\active-directory-verifiable-credentials-dotnet-main\\1-asp-net-core-api-idtokenhint\\wwwroot\\selfie.html",
+      "PackagePath": "staticwebassets\\selfie.html"
+    },
+    {
+      "Id": "C:\\Users\\lddthao\\Downloads\\active-directory-verifiable-credentials-dotnet-main\\1-asp-net-core-api-idtokenhint\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\lddthao\\Downloads\\active-directory-verifiable-credentials-dotnet-main\\1-asp-net-core-api-idtokenhint\\wwwroot\\verifiedid.requestservice.client.js",
+      "PackagePath": "staticwebassets\\verifiedid.requestservice.client.js"
+    },
+    {
+      "Id": "C:\\Users\\lddthao\\Downloads\\active-directory-verifiable-credentials-dotnet-main\\1-asp-net-core-api-idtokenhint\\wwwroot\\verifiedid.uihandler.js",
+      "PackagePath": "staticwebassets\\verifiedid.uihandler.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AspNetCoreVerifiableCredentials.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AspNetCoreVerifiableCredentials.props",
+      "PackagePath": "build\\AspNetCoreVerifiableCredentials.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AspNetCoreVerifiableCredentials.props",
+      "PackagePath": "buildMultiTargeting\\AspNetCoreVerifiableCredentials.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AspNetCoreVerifiableCredentials.props",
+      "PackagePath": "buildTransitive\\AspNetCoreVerifiableCredentials.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
